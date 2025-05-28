@@ -1,4 +1,4 @@
-## Hi there 🫎
+## Hi there 🌲
 I'm Jake! This is my git! 
 
 ## About me: 
