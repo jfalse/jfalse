@@ -5,7 +5,7 @@ I'm Jake! This is my git!
 I have a B.S in Information Technology, which had a focus on system administration, networking, cybersecurity, and intermediate programming.
 Currently I work in Aerospace as an Engineer in factory operations support! 
 
-Additionally I am studying for the Security+ certification, along with pursuing a masters in Cybersecurity/Cybersecurity Engineering
+For career growth I am studying for the Security+ certification, along with pursuing a masters in Cybersecurity/Cybersecurity Engineering
 
 
 ## My skills: 
@@ -13,7 +13,8 @@ Additionally I am studying for the Security+ certification, along with pursuing 
 - Full-stack: Java (JSP), PHP, NodeJS (Express, Handlebars), MySQL, MicrosoftSQL
 - Linux: Ubuntu Server, Debian, FreeBSD, ProxMox
 - Windows: Windows Server (Core/GUI), Windows IoT, older (7,XP,NT)
-- Systems-design: building mini firewalls & additional network tools
+- Networking: firewalls, NAT, routers
+- Systems-design: building firewalls & additional network tools
 - Familiar with: C, C++, Perl, batch, VB
 
 ## Past projects:
