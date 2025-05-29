@@ -20,7 +20,7 @@ For career growth I am studying for the Security+ certification, along with purs
 ## Past projects:
 - Single scope network packet sniffing tool for IoT/SCADA environments 
 - Web applications: Full-stack & Front-end data queries
-- Designed a firewall from scatch, that hosts file sharing services for MT HMI's
+- Designed a firewall from scatch, that hosts file sharing services for Machine tool HMI's
 
 ## What am I working on? 
 - Building scripts for my proxmox server
